@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        revision="24.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\picasso-2.5.2-ac76d6ed9c7f3113ccafaf1520d75c6a50fa1f59.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-41827e27d6f88a86a9d0a9ff229e2fd7638219a0.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-375ddf700756f3a01ec102d11a1f902d865f81e6.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        revision="24.0.3"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-25.0.1-dd3c03e89c3cca6ec96d42e9034fbe41bd00b5a9.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        revision="24.0.3"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-25.0.1-2b43833c4fd0878f7fdb46398fbac84bb75c69ce.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        revision="24.0.3"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-25.0.1-1489e8709de4456e15ad99e57d9dd8749bfaeeec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Romanovsky_m\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        revision="24.0.3"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.0.1-ad093e36cf0479abb2445c8e71d3dc40e49c50b7.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-9d7ededad14fb1f965ab8f3ed9256d2cb64b5838.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0564dca162f0bb00cf592d8390558c66ba239d16.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4a952b8acb26774606e5d0416d85a525b4820060.jar" />
+    </item>
+    <item
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        revision="24.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gson-2.7-b908154a3d45c66f19fcfd0b1f6747eb2c7488d1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao\3.2.0\e70040568b2929b8e5869ad1ffca8e4386dc53bc\greendao-3.2.0.jar"
+        revision="24.0.3"
+        sha1="e70040568b2929b8e5869ad1ffca8e4386dc53bc">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\greendao-3.2.0-8f7c51c53e0bc05b5a507d96bbb6bb815f164d65.jar" />
+    </item>
+    <item
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        revision="24.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okio-1.8.0-51f7a9c1bccc96583ebf1304a35475dfb05d5830.jar" />
+    </item>
+    <item
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\org.greenrobot\greendao-api\3.2.0\c6d610abe1d75d758431c9234917a349abc0a0ac\greendao-api-3.2.0.jar"
+        revision="24.0.3"
+        sha1="c6d610abe1d75d758431c9234917a349abc0a0ac">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\greendao-api-3.2.0-610df3e8c7b5538d22d1545f5c5a467a6ed6c6ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        revision="24.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\retrofit-2.1.0-9b07ca20c96825fa8ee7ee7a1e50391b48287909.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-e08b0c3f9b37e6b6689e784654be34e84778b4e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        revision="24.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\glide-3.6.1-650e69dcf751a9523eed74087a182bf7fb80b715.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        revision="24.0.3"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-25.0.1-1f098daba068be836b5d87dca44dc0e8e2d0f79e.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2ba31251b0caf9483001580684733f373f3ab353.jar" />
+    </item>
+    <item
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        revision="24.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\okhttp-3.3.0-29cbff9532be29ab4091e20bb055fef89e14f73f.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6cd857b775d629778f8615b3122d5763c5c4b434.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-4361f597fdd2d5fb6b7dcd5451225386b4ebdad9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Romanovsky_m\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        revision="24.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\converter-gson-2.1.0-d2bc493050060b84259c5e9b9cb441c00b86e521.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-d07a2cd278e2a99ec93c0f5883f37f8c232d2c09.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-48bd452d370018f00eae160784c1848e43a350a0.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-25.0.1-80c83b0f910310b4e2d798c7f382164d304039db.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        revision="24.0.3"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\AndroidStudioProjects\GIFSearcher\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-748cedbb7e40a513527be19b5319d6c37deb2749.jar" />
+    </item>
+
+</items>
